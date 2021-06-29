@@ -1,0 +1,16 @@
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\bin\Debug\net5.0\appsettings.json
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\bin\Debug\net5.0\UC8ATV1.exe
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\UC8ATV1.csproj.AssemblyReference.cache
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\UC8ATV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\UC8ATV1.AssemblyInfoInputs.cache
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\UC8ATV1.AssemblyInfo.cs
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\UC8ATV1.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\UC8ATV1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\staticwebassets\UC8ATV1.StaticWebAssets.Manifest.cache
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\staticwebassets\UC8ATV1.StaticWebAssets.xml
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\scopedcss\bundle\UC8ATV1.styles.css
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\UC8ATV1.RazorTargetAssemblyInfo.cache
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\UC8ATV1.dll
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\ref\UC8ATV1.dll
+C:\Users\Ariel\Downloads\uc8sedertudoerrado\obj\Debug\net5.0\UC8ATV1.pdb
